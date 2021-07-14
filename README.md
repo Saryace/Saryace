@@ -6,7 +6,7 @@
 
 ### Mis redes
 
-- Sitio web [<img align="left" alt="saryace.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](saryace.github.io) 
+- Sitio web [<img align="left" alt="saryace" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](saryace.github.io) 
 - Twitter [<img align="left" alt="saryace | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/saryace) 
 - Instagram [<img align="left" alt="saryace | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/saryace) 
 
