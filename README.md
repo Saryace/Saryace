@@ -1,11 +1,7 @@
 ## Aprendiendo cosas nuevas constantemente ✨
-
 ## Constantly learning new things ✨
 
--   🌱 Intentado ser más sustentable | Trying to be more sustainable
--   🌱 Aprendiendo soil data management | Learning soil data management
--   🌱 Hobbies 2021: Teclados mecánicos, juegos de PS1 y Stardew Valley
--   🌱 Hobbies 2021: Mechanical keyboards, PS1 games and Stardew Valley
+-   🌱 Hobbies 2022: Mechanical keyboards, PS1 games and BuJo 
 
 ### Mis redes
 
