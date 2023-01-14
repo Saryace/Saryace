@@ -1,7 +1,7 @@
 ## Aprendiendo cosas nuevas constantemente ✨
 ## Constantly learning new things ✨
 
--   🌱 Hobbies 2022: Mechanical keyboards, PS1 games and BuJo 
+-   🌱 Hobbies 2023: Mechanical keyboards, PS1 games and BuJo 
 
 ### Mis redes
 
