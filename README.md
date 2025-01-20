@@ -1,7 +1,8 @@
 ## Aprendiendo cosas nuevas constantemente ✨
 ## Constantly learning new things ✨
 
--   🌱 Hobbies 2024: Mechanical keyboards, SFVI, Stardew Valley and Journaling
+-   🌱 Hobbies 2025: Mechanical keyboards, SFVI, Stardew Valley and Journaling
+-   Open-access science
 
 ### Mis redes
 
