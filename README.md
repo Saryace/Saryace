@@ -2,7 +2,7 @@
 ## Constantly learning new things ✨
 
 -   🌱 Hobbies 2025: Mechanical keyboards, SFVI, Stardew Valley and Journaling
--   Open-access science
+-   Open-access science y reproducibilidad de datos
 
 ### Mis redes
 
