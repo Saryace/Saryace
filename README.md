@@ -20,6 +20,9 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate with researchers interested on urban hydrology 🤝 soil hydrology 🤝 urban spatial analysis 🤝 nature-based solutions
 - ❤️ I’m proudly part of the co-organizers of [R-Ladies Chile](https://www.meetup.com/es-ES/rladies-scl/) events
 - 📦 I'm the developer of [ggsoiltexture](https://github.com/Saryace/ggsoiltexture) and [infiltrodiscR](https://github.com/biofisicasuelos/infiltrodiscR), R packages for soil physics data analysis
+- 🥊 I'm super fan of the Street Fighter saga. Currently playing ⚡ Cammy ⚡ at Street Fighter 6.
+- 📝 I'm an stationery enthusiast. Planning and journaling using a [Jibun Techo Lite](https://www.kokuyo.com/en/products/jibun_techo/lineup/lite.html)
+- I have three cats: Lana (calico), Lucy (tabby) and Lechuga (small black panther)
 
 
 
