@@ -37,6 +37,8 @@ You can use the website to generate badges: https://shields.io/
 Project Website [Here](urban-soil-biophysics.github.io)
 
 <img width="100%" align="right" alt="Github" src="https://github.com/Saryace/Saryace/blob/master/Zuzumap.png?raw=true" />
-
+<sub>
+Screenshot from the Downtown Zuzu mod for Stardew Valley, created by the Zuzu Development Team and published on Nexus Mods. Used for non-commercial illustrative purposes.
+</sub>
 
 
