@@ -31,7 +31,8 @@ You can use the website to generate badges: https://shields.io/
 - 📝 I'm a stationery enthusiast. Planning and journaling using a [Jibun Techo Lite](https://www.kokuyo.com/en/products/jibun_techo/lineup/lite.html)
 - 🐈 I have three cats: Lana (calico), Lucy (tabby) and Lechuga Panterita (small black panther)
 
-## Project Ongoing: How do urban microclimates and soil physical properties influence soil organic carbon (SOC) dynamics across different urban landscapes? FONDECYT Iniciación 11260726
+## Project Ongoing: How do urban microclimates and soil physical properties influence soil organic carbon (SOC) dynamics across different urban landscapes? 
+### FONDECYT Iniciación 11260726
 
 Project Website [Here](urban-soil-biophysics.github.io)
 
