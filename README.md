@@ -16,9 +16,9 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://github.com/Saryace/Saryace/blob/master/c34911f9-7f1e-44e3-9c6f-50eb04f9a494.jpeg?raw=true" />
+<img width="40%" align="right" alt="Github" src="https://github.com/Saryace/Saryace/blob/master/c34911f9-7f1e-44e3-9c6f-50eb04f9a494.jpeg?raw=true" />
 
-- 👩🏽‍🏫 I teach geology/soil science - research methods - statistics - data analysis and visualization at [Pontificia Universidad Católica de Chile PUC](https://agronomia.uc.cl/)
+- 👩🏽‍🏫 I teach geology/soil science - research methods - statistics - data analysis and visualization at [Pontificia Universidad Católica de Chile](https://agronomia.uc.cl/)
 - 👩🏽‍🏫 I'm teaching at the Natural Resources Engineering undergrad program at PUC. Super proud of my students 🧠 ⚡
 - 👩🏽‍💻 I’m a researcher at Centre for Sustainable Urban Development [CEDEUS](https://cedeus.cl/). My research is focused on the soil physical and chemical properties of urban soils and their role 🌱 🏢
 - 🗺️ Currently exploring the role of urban soils in carbon storage, urban heat islands, and the urban water cycle (infiltration)
