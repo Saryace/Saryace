@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/Saryace/Saryace/blob/master/c34911f9-7f1e-44e3-9c6f-50eb04f9a494.jpeg?raw=true" />
+<img width="45%" align="right" alt="Github" src="https://github.com/Saryace/Saryace/blob/master/c34911f9-7f1e-44e3-9c6f-50eb04f9a494.jpeg?raw=true" />
 
 - 👩🏽‍🏫 I teach geology/soil science - research methods - statistics - data analysis and visualization at [Pontificia Universidad Católica de Chile PUC](https://agronomia.uc.cl/)
 - 👩🏽‍🏫 I'm teaching at the Natural Resources Engineering undergrad program at PUC. Super proud of my students 🧠 ⚡
