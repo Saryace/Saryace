@@ -1,8 +1,8 @@
 <!-- Your title -->
-## Hi, I'm Sara Acevedo
+## Hello! I'm Sara Acevedo
 ### Assistant Professor
 Facultad de Agronomía y Sistemas Naturales
-Pontificia Universidad Católica de Chile - PUC
+Pontificia Universidad Católica de Chile 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
