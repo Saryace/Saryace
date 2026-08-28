@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello! I'm Sara Acevedo
+## Hello! I'm Sara Acevedo Godoy
 ### Assistant Professor
 Facultad de Agronomía y Sistemas Naturales
 Pontificia Universidad Católica de Chile 
